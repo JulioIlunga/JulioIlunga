@@ -1,111 +1,86 @@
-# Hi, I'm Elie Kaboza Ilunga
+<h1 align="center">Elie Kaboza Ilunga</h1>
 
-**Software Developer | Symfony Backend | SQL & Data Science**
+<p align="center">
+  <b>Backend Developer (Symfony · MySQL) → growing into Data Science & AI Engineering</b><br/>
+  Kinshasa, DR Congo · Software Developer at <b>SMART-TECHNOLOGY</b>
+</p>
 
-I'm a software developer based in **Kinshasa, Democratic Republic of the Congo**, currently working with **SMART-TECHNOLOGY**. I build practical web applications, backend features, database-driven systems, and business tools with a strong focus on reliability, clarity, and real user needs.
-
-My main stack today is **PHP, Symfony, MySQL, SQL, Twig, Doctrine, HTML/CSS, Git**, and I am progressively growing toward **Python, data analysis, machine learning, and AI engineering**.
-
----
-
-## About Me
-
-- I work on professional web applications using **Symfony** and **MySQL**.
-- I enjoy backend development, database structure, SQL queries, reporting, and application logic.
-- I care about writing code that is understandable, maintainable, and useful in real business contexts.
-- I am building a long-term path toward **Data Science** and **AI Engineering**.
-- I believe technology can help African businesses and communities solve practical problems at scale.
+<p align="center">
+  <a href="mailto:eliekaboza2025@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Elie-Ilunga"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <!-- Add LinkedIn if you have one:
+  <a href="https://www.linkedin.com/in/YOUR-PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  -->
+</p>
 
 ---
 
-## What I Do
+## About me
 
-```php
-$elie = [
-    'role' => 'Software Developer',
-    'location' => 'Kinshasa, DRC',
-    'focus' => ['Symfony', 'Backend Development', 'SQL', 'Data Science', 'AI'],
-    'goal' => 'Build reliable, data-driven and intelligent software solutions'
-];
-```
+I build business applications that companies rely on every day: backend features, database-driven modules, and SQL reporting with **Symfony** and **MySQL**.
+
+I care about code that is **reliable, readable, and maintainable**, because in real businesses, software that breaks silently costs more than software that ships late.
+
+Today I am extending that backend foundation toward **data analysis, machine learning, and AI engineering**, with one long-term goal: building data-driven products that solve practical problems for businesses and communities in Africa.
 
 ---
 
-## Tech Stack
+## Tech stack
 
-### Backend & Web
+**What I use in production**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Doctrine](https://img.shields.io/badge/Doctrine-FC6A31?style=for-the-badge&logo=doctrine&logoColor=white)
-![Twig](https://img.shields.io/badge/Twig-BACF29?style=for-the-badge&logo=twig&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Doctrine](https://img.shields.io/badge/Doctrine-FC6A31?style=flat-square&logo=doctrine&logoColor=white)
+![Twig](https://img.shields.io/badge/Twig-BACF29?style=flat-square&logo=twig&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Data 
+**What I am learning right now**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![AI Engineering](https://img.shields.io/badge/AI%20Engineering-5A45FF?style=for-the-badge)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
-## Professional Focus
+## Featured projects
 
-I currently focus on:
+<!--
+  This is the most important section of the profile.
+  Replace the examples below with your real repositories (2 to 4 is ideal).
+  For each one: what problem it solves, the stack, and one concrete result.
+-->
 
-- Developing and maintaining business applications with **Symfony**
-- Building backend features connected to **MySQL** databases
-- Writing and improving **SQL queries** for extraction, tracking, and reporting
-- Structuring application data and improving existing modules
-- Learning how to transform data into insights with **Python, pandas, and NumPy**
-- Preparing for more advanced work in **machine learning and AI systems**
-
----
-
-## Current Learning Goals
-
-- Advanced Symfony architecture
-- Clean backend design and API development
-- Database design and SQL optimization
-- Python for data analysis
-- Statistics and machine learning fundamentals
-- Deep learning and AI engineering foundations
-- Technical English and professional communication
+| Project | What it does | Stack |
+|---|---|---|
+| [**project-name**](https://github.com/Elie-Ilunga/project-name) | One sentence on the problem it solves and for whom. | Symfony · MySQL |
+| [**project-name**](https://github.com/Elie-Ilunga/project-name) | One sentence on the problem it solves and for whom. | Python · pandas |
+| [**project-name**](https://github.com/Elie-Ilunga/project-name) | One sentence on the problem it solves and for whom. | Python · SQL |
 
 ---
 
-## GitHub Stats
+## Currently
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KongaDan&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KongaDan&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## Vision
-
-My long-term vision is to become a strong **backend and AI engineer** capable of building reliable, intelligent, and data-driven products.
-
-I want to contribute to software that helps businesses, organizations, and communities make better decisions, automate useful work, and create measurable impact, especially in Africa.
+- 🔧 Building and maintaining Symfony business applications at SMART-TECHNOLOGY
+- 📊 Writing SQL for data extraction, tracking, and reporting
+- 🐍 Learning data analysis with Python, pandas, and NumPy
+- 📐 Studying statistics and machine learning fundamentals
+- 🌍 Improving my technical English
 
 ---
 
-## Connect
+## GitHub activity
 
-- GitHub: [@Elie-Ilunga](https://github.com/Elie-Ilunga)
-- Location: Kinshasa, Democratic Republic of the Congo
-- Email: [eliekaboza2025@gmail.com](mailto:eliekabilunga@gmail.com)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Elie-Ilunga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elie-Ilunga&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
 
 ---
 
-> Building step by step, learning every day, and aiming for impact through software, data, and AI.
+<p align="center"><i>Building step by step, learning every day, aiming for impact through software, data, and AI.</i></p>
